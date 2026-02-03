@@ -3,7 +3,7 @@
 **Febin Wilson**  
 Robotics Engineer specializing in hardware-software integration, reinforcement learning, and autonomous systems. Building robots that work in the real world—not just in simulation.
 
-Fresh off completing my **Master's in Robotics at Northeastern University**, I'm currently researching bipedal locomotion and reinforcement learning algorithms at the **Silicon Synapse Lab**. My passion lies in making robots reliable, practical, and impactful through robust control systems and intelligent navigation.
+Fresh off completed my **Master's in Robotics at Northeastern University**, I'm currently researching bipedal locomotion and reinforcement learning algorithms at the **Silicon Synapse Lab**. My passion lies in making robots reliable, practical, and impactful through robust control systems and intelligent navigation.
 
 ---
 
